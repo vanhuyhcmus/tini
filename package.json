@@ -1,5 +1,5 @@
 {
-  "name": "tini-app",
+  "name": "itini",
   "version": "0.0.1",
   "workspaces": {
     "packages": [
@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "tiki": {
-    "appIdentifier": "vn.tiki.testhook",
+    "appIdentifier": "vn.tiki.itini",
     "buildNumber": 1
   },
   "devDependencies": {

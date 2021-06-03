@@ -1,6 +1,6 @@
 {
-  "name": "@tini/hook",
-  "version": "0.0.1",
+  "name": "@itini/hook",
+  "version": "0.0.2",
   "description": "Sử dụng react hook cho Tiki Mini App (Tini App)",
   "author": "Huy Nguyễn <vanhuy.hcmus@gmail.com>",
   "homepage": "https://github.com/vanhuyhcmus/tini",
