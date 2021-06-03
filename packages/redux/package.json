@@ -1,6 +1,6 @@
 {
   "name": "@itini/redux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sử dụng redux cho Tiki Mini App (Tini App)",
   "author": "Huy Nguyễn <vanhuy.hcmus@gmail.com>",
   "homepage": "https://github.com/vanhuyhcmus/tini",
@@ -33,9 +33,9 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@itini/hook": "^0.0.1"
+    "@itini/hook": "^0.0.2"
   },
   "devDependencies": {
-    "@itini/hook": "^0.0.1"
+    "@itini/hook": "^0.0.2"
   }
 }
