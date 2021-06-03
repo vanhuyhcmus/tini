@@ -12,6 +12,12 @@
     },
     "bootstrap": {
       "hoist": true
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "message": "chore(release): publish %s",
+      "registry": "https://npm.pkg.github.com",
+      "allowBranch": "master"
     }
   },
   "version": "0.27.0"
