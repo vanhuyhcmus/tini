@@ -1,0 +1,38 @@
+{
+  "name": "@tini/hook",
+  "version": "0.0.1",
+  "description": "Sử dụng react hook cho Tiki Mini App (Tini App)",
+  "author": "Huy Nguyễn <vanhuy.hcmus@gmail.com>",
+  "homepage": "https://github.com/vanhuyhcmus/tini",
+  "keywords": [
+    "hook",
+    "tini hook",
+    "react hook",
+    "tiki mini app",
+    "tiki",
+    "mini App",
+    "tini App",
+    "tini",
+    "mini"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "files": [
+    "src/**"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhuyhcmus/tini.git",
+    "directory": "packages/hook"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/vanhuyhcmus/tini/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {}
+}

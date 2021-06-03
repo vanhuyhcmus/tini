@@ -1,0 +1,41 @@
+{
+  "name": "@tini/redux",
+  "version": "0.0.1",
+  "description": "Sử dụng redux cho Tiki Mini App (Tini App)",
+  "author": "Huy Nguyễn <vanhuy.hcmus@gmail.com>",
+  "homepage": "https://github.com/vanhuyhcmus/tini",
+  "keywords": [
+    "redux",
+    "tini redux",
+    "tiki mini app",
+    "tiki",
+    "mini App",
+    "tini App",
+    "tini",
+    "mini"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "files": [
+    "src/**"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhuyhcmus/tini.git",
+    "directory": "packages/redux"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/vanhuyhcmus/tini/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@tini/hook": "^0.0.1"
+  },
+  "devDependencies": {
+    "@tini/hook": "^0.0.1"
+  }
+}

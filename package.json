@@ -1,0 +1,16 @@
+{
+  "name": "mini-hook",
+  "version": "0.1.0",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish from-git"
+  },
+  "dependencies": {},
+  "tiki": {
+    "appIdentifier": "vn.tiki.testhook",
+    "buildNumber": 1
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

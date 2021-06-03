@@ -1,0 +1,2 @@
+<view onTap="onTap">This is blank page {{abc}}</view>
+<view>Object: {{obj.abc}}</view>
