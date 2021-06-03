@@ -1,7 +1,6 @@
 {
   "tagVersionPrefix": "v",
   "packages": ["packages/*"],
-  "npmClient": "npm",
   "useWorkspaces": true,
   "command": {
     "version": {
