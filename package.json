@@ -1,6 +1,6 @@
 {
-  "name": "mini-hook",
-  "version": "0.1.0",
+  "name": "tini",
+  "version": "0.0.2",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "publish": "lerna publish from-git"
